@@ -1,8 +1,8 @@
-## v10.0.0 (300)
+# v10.0.0 (300)
 
 abc
 
-## v8.0.5 (267)
+# v8.0.5 (267)
 
 ### MPACT support
 
@@ -10,7 +10,7 @@ abc
 
 MPACT mode from Zebra technologies is now supported. MPACT allows beacons to be provisioned using Apple's iBeacon format while also encoding battery life information into the same advertising packet.
 
-## v7.0.0 (237)
+# v7.0.0 (237)
 
 ### Big font support
 
