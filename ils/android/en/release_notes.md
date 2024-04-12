@@ -1,6 +1,16 @@
 # v10.0.0 (300)
 
-abc
+### Flexible deployment support
+
+<img src="https://github.com/damianflannery/app_release_notes/assets/227480/1b281c4b-aa63-426f-b4ec-491c8eb9b7f3" width="300" height="300">
+
+This update adds support for more flexible deployments allowing us to install and configure with reduced reliance on MDMs
+
+### Security enhancements
+
+<img src="https://github.com/damianflannery/app_release_notes/assets/227480/0e765b62-c3bf-4395-9cdc-7a2d080eaa74" width="300" height="200">
+
+This build contains enhancements to security and minor fixes
 
 # v8.0.5 (267)
 
@@ -14,7 +24,7 @@ MPACT mode from Zebra technologies is now supported. MPACT allows beacons to be 
 
 ### Big font support
 
-<img src="https://github.com/damianflannery/app_release_notes/assets/227480/58de6762-a022-4225-80a7-97d276867db3" width="300" height="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/damianflannery/app_release_notes/assets/227480/10f6d027-5493-4159-ad12-033567c373f5" width="200" height="200">
 
 Text within the app including labels and badges on the map will scale with according to the font settings on your device. This can be helpful for people with visual impairments or who simply prefer to read larger text.
 
