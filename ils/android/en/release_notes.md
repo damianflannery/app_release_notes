@@ -1,10 +1,10 @@
 # v10.0.0 (300)
 
-### Flexible deployment support
+### Flexible deployments
 
 <img src="https://github.com/damianflannery/app_release_notes/assets/227480/1b281c4b-aa63-426f-b4ec-491c8eb9b7f3" width="300" height="300">
 
-This update adds support for more flexible deployments allowing us to install and configure with reduced reliance on MDMs
+This update adds support for more flexible deployments allowing ILS to be installed and configured with minimal reliance on MDMs
 
 ### Security enhancements
 
